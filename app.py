@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Apni Gemini API Key yahan daalein
-GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE"
+GEMINI_API_KEY = "AQ.Ab8RN6KU8ipIU1J3EWzadLJULhQqOHlAlOAF5ykLZ1MiNFjZFQ"
 
 HTML_PAGE = """
 <!DOCTYPE html>
